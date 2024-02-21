@@ -1,0 +1,2 @@
+17 es un número compuesto.
+17 es un número primo.

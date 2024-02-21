@@ -1,0 +1,5 @@
+Modelo: 2005, recorrido: 25000, estado Renovación
+Modelo: 2015, recorrido: 7000, estado Óptimo
+Modelo: 2010, recorrido: 20000, estado Mantenimiento
+Modelo: 2020, recorrido: 5000, estado Óptimo
+Modelo: 2016, recorrido: 800000, estado Mecánico
