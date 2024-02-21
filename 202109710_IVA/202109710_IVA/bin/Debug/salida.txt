@@ -1,0 +1,2 @@
+El IVA es: 12 es precio del IVA es: 100 en quetzales
+El IVA es: 53.5714285714286 es precio del IVA es: 446.428571428571 en quetzales

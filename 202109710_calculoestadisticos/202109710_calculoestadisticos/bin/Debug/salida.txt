@@ -1,0 +1,7 @@
+La media es: 100
+La mediana es: 50
+La moda es: 0
+El rango es: 100
+La desviación estándar es: 57.8791845139511
+La varianza es: 3350
+La varianza es: 3350
